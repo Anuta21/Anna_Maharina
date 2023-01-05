@@ -1,5 +1,5 @@
 export const token =
-  "sl.BWUrf3N0aPH2q6ADpSGAbWR5721S9egNAjjF9DZ92uN6-8GXRjanOcP3kwpPkgAPoPVsoW8wZLstUqAjOSVBOWY7_GdCU54sfOx9Hk-KQ3e-nRlIv7mRm1b3Kn6NqiupDpal1GtQ7_U";
+  "sl.BWUcJ33e38cxiiO3l-GNZ3GHKT4I3HegDfvS-Sjqh854bxMvjmmA14trnRvYNSZ1pYq7aThAFiYtHasvoCT72rdc5dsmDpoZgdtq0Dm_rMEnL21JMyIL61lNiwZ0ilnuAGWTNrCZ5wo";
 
 export const localDir = "test-files";
 export const dropboxDir = "testing";
